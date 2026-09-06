@@ -1,4 +1,5 @@
 <div align="center">
+<img width="597" height="335" alt="image" src="https://github.com/user-attachments/assets/fcb5c7f6-dd7b-4d51-a4d8-e567474fd2e4" />
 
 # 📨 Discord Message Manager & Backup Tool
 
